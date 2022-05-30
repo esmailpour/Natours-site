@@ -1,0 +1,16 @@
+{
+    "name": "testsite",
+    "version": "1.0.0",
+    "description": "Landing page for testsite",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss css/style.css"
+      },
+      "author": "Mitra",
+      "license": "ISC",
+      "devDependencies": {
+        "node-sass": "^4.14.1"
+      }
+      
+    }
+    
